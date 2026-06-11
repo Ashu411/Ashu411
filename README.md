@@ -407,7 +407,7 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://ashutosh-portfolio.vercel.app" target="_blank">
+  <a href="https://portfolio-ashutosh-kumar-swe.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Full%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
