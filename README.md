@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20CSE-JIIT%20Noida%202028-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/CGPA-7.0%2F10-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Year-2nd%20Year%20Undergraduate-4C1D95?style=for-the-badge&logo=calendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Year-3rd%20Year%20Undergraduate-4C1D95?style=for-the-badge&logo=calendar&logoColor=white" />
 </p>
 
 <p align="center">
