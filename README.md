@@ -43,14 +43,31 @@
 
 ## ◈ About
 
-```typescript
-const ashutosh: SoftwareEngineer = {
-  role:       "Aspiring Software Engineer & AI/ML Developer",
-  education:  "B.Tech CSE @ JIIT Noida (2024–2028)",
-  location:   "Noida, Uttar Pradesh, India",
-  languages:  ["C++", "Python", "Java", "C"],
-  focus:      ["AI/ML Systems", "Full Stack Development", "Data Analytics", "DSA"],
-  philosophy: "Build systems that turn raw data into actionable intelligence.",
+```javascript
+const AshutoshKumar = {
+  Education: "B.Tech CSE, JIIT Noida (2024-2028)",
+  Skills: [
+    "C++", "Python", "Java", "JavaScript",
+    "React.js", "FastAPI", "SQL", "Git"
+  ],
+  CoreSubjects: [
+    "Data Structures & Algorithms",
+    "Object-Oriented Programming",
+    "DBMS",
+    "Operating Systems"
+  ],
+  Domains: [
+    "Software Engineering",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Full Stack Development",
+    "Data Analytics"
+  ],
+  OpenTo: [
+    "Software Engineering Internships",
+    "AI/ML Internships",
+    "Full Stack Development Roles"
+  ]
 };
 ```
 
