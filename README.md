@@ -272,63 +272,16 @@ Designing and engineering end-to-end software products independently — from sy
 
 ---
 
-## ◈ Achievements
 
-<div align="center">
 
-| 🏆 Recognition | Details |
-|:---:|:---|
-| **Hackathon Finalist** | Presented BenchMarkIQ AI at institutional innovation showcases and startup competitions |
-| **Full-Stack Product Launch** | Deployed production-grade AI platform (BenchMarkIQ AI) accessible at bench-mark-iq-five.vercel.app |
-| **Academic Excellence** | XII Board — 89.8% at Delhi Public School (2022–2023) |
-| **Deep Learning Research** | Built and published CNN-based agricultural disease detection system on GitHub |
-| **OSS Contributor** | Published 4+ complete project repositories with documentation on GitHub |
-
-</div>
-
----
-
-## ◈ Certifications
-
-<div align="center">
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20C-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white)
-
-**Coursera / Online Platforms**
-
-![Coursera](https://img.shields.io/badge/Coursera-Machine%20Learning%20Foundations-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Intro%20to%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**Developer Platforms**
-
-![GitHub](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-
-</div>
-
----
 
 ## ◈ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/AshutoshKumar411/" target="_blank">
+  <a href="https://leetcode.com" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&label=Ashutosh+Kumar" />
   </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/ashutoshkumardev01/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&label=Profile" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/ashutosh_kumar01" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&label=Profile" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/ashu411" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&label=Profile" />
-  </a>
+  
 </p>
 
 ---
