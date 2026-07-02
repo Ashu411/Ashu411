@@ -328,35 +328,6 @@ Designing and engineering end-to-end software products independently — from sy
 
 ---
 
-## ◈ Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Advanced System Design & Distributed Systems
-    - Reinforcement Learning & Transformer Architectures
-    - Cloud-Native Deployment (AWS, Docker, Kubernetes)
-    - Competitive Programming — LeetCode Hard & ICPC prep
-
-  building:
-    - BenchMarkIQ AI v2 — Predictive Analytics & Real-Time Monitoring
-    - AI-powered SaaS tools for business intelligence
-    - Open-source Python analytics libraries
-
-  exploring:
-    - LLM fine-tuning and RAG (Retrieval-Augmented Generation) pipelines
-    - Agentic AI workflows using LangChain & CrewAI
-    - WebSockets & real-time data streaming architectures
-
-  open_to:
-    - Software Engineering Internships (SWE / AI-ML / Backend)
-    - Research collaborations in AI and Data Systems
-    - Open Source contributions to Python and ML ecosystems
-    - Hackathon teams solving real-world problems
-```
-
----
-
 ## ◈ Connect
 
 <p align="center">
