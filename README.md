@@ -122,10 +122,8 @@ I approach every problem with a product engineering mindset: the goal is not jus
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
 | **Deep Learning** | ████████░░ Advanced | CNNs, image classification, TensorFlow, model training pipelines |
-| **Computer Vision** | ███████░░░ Proficient | OpenCV, image preprocessing, feature extraction, dataset augmentation |
 | **Data Analytics** | ████████░░ Advanced | Pandas, NumPy, EDA, KPI analysis, benchmark-based gap detection |
 | **ML Engineering** | ███████░░░ Proficient | Scikit-Learn, model evaluation, feature engineering, performance metrics |
-| **AI APIs & LLMs** | ██████░░░░ Intermediate | Gemini AI integration, prompt engineering, NL-to-insight pipelines |
 | **Data Visualization** | ███████░░░ Proficient | Seaborn, Matplotlib, Recharts, dashboard design |
 
 </div>
